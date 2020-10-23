@@ -1,0 +1,6 @@
+name = "mini-santorini"
+type = "webpack"
+account_id = "12ad36659d50e40ea13c3b755285b81b"
+workers_dev = true
+route = ""
+zone_id = ""
